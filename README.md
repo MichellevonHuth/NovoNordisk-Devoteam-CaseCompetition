@@ -34,6 +34,7 @@ As with many chronic diseases, obesity is more prevalent among people with lower
  1. In schools – targeting the youngest (5-9 y/o) - where prevalence of obesity is highest
  2. In urban, rather than rural, environments – where obesity rates are highest
  3. Targeting families in the bottom quartile of household income – where obesity rates are highest
+ 4. In ethnically and culturally appropriate ways - targeting ethnic groups where obesity rates are highest
 
 - For parents:
 1. Nudging personal decision-making around diet when the government doesn't make it easy 
