@@ -38,7 +38,7 @@ As with many chronic diseases, obesity is more prevalent among people with lower
 
 - For parents:
 1. Nudging personal decision-making around diet when the government doesn't make it easy 
-2. Working with local stakeholders – role of 'community pharmacists' in disseminating information 
+2. Working with local stakeholders – role of 'community pharmacists' in disseminating information
 
 - Cost: 
 1. Numerous studies across the US and Europe on sustainable programs guiding children towards healthier choices average ~$30 per student, per year
